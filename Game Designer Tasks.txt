@@ -1,0 +1,21 @@
+Game Designer Tasks
+
+lorsque le jeu est lancé il doit avoir un fondu sur le logo du jeu, comme un ecran de chargement
+
+apres ce court chargement, on doit se retrouver dans le menu principale composé
+- d'un gros bouton centrale et interactif "play"
+- d'un bouton qui redirige vers la liste des pistes musicales disponibles
+- d'un bouton qui customise l'apparence de l'interface entourant le zone de jeu
+
+le menu des pistes musicales doit permettre d'ecouter un apercu des chansons
+
+une fois la musique selectionné, il faut revenir au menu pour cliquer sur le bouton play, qui lance le niveau de la piste musical selectionné
+
+avant le debut du jeu il doit y avoir une animations du BG de 3 secondes
+
+
+bug 1
+en jeu la musique reste celle de noBGM qui est jsute une pré ecoute de 15 sec
+
+bug 2
+quand je quitte le menu pause il reapparait aussi tot

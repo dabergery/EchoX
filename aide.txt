@@ -1,0 +1,13 @@
+# Lancer sur mac
+- ouvrir shell
+$python --version
+python -m ensurepip or python3 -m ensurepip
+brew install python
+python3 -m pip install –upgrade pip
+$pip freeze > requirements.txt
+$pip install -r requirements.txt
+
+# Lancer sur Windows
+python -m PyInstaller main.py
+
+02:01 10/05/2024
